@@ -1,6 +1,5 @@
 function carregar() {
     var msg = document.getElementById('msg')
-    var img = document.getElementById('img')
     var bg = document.getElementById('fundo')
     var data = new Date()
     var hora =  data.getHours()
