@@ -1,6 +1,6 @@
 <h1 align="center">Relógio Dinâmico</h1>
 
-![Badge](http://img.shields.io/static/v1?label=STATUS&message=EmConstrução&color=RED&style=for-the-badge)
+![Badge](http://img.shields.io/static/v1?label=STATUS&message=EmConstrução&color=red&style=for-the-badge)
 
 <h2> :page_facing_up: Descrição do Projeto</h2>
 
